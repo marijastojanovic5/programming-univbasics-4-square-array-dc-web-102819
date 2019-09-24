@@ -3,7 +3,7 @@ def square_array(array)
   arr=[]
   
   while  counter<array.length do
-    puts arr<<array[counter]**2
+    puts array[counter]**2
    counter +=1
    
  
