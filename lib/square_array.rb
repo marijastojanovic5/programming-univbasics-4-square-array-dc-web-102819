@@ -9,6 +9,6 @@ def square_array(array)
    
  
 end
-  arr<< array[counter]**2
+ puts arr<< array[counter]**2
 
 end
