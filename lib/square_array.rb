@@ -5,9 +5,9 @@ def square_array(array)
   while  counter<array.length do
     puts arr<< array[counter]**2
     counter +=1
-    p arr
+  
    
 end
-
+p arr
 
 end
